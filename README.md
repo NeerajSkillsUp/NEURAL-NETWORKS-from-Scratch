@@ -14,6 +14,4 @@ Neural_Networks_I.ipynb – Introduction to neural networks, forward & backward 
 
 Python
 
-NumPy, Pandas, Matplotlib
-
-TensorFlow / PyTorch (in upcoming notebooks)
+NumPy
