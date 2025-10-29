@@ -1,4 +1,4 @@
-🧠 Neural Networks
+🧠 Neural Networks (from scratch)
 
 This repository contains a series of Jupyter notebooks focused on understanding and implementing key concepts in Neural Networks and Deep Learning.
 
