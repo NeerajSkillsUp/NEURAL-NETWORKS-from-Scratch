@@ -7,3 +7,6 @@ Each notebook is designed for clarity and experimentation — making it easy to 
 📘 Contents
 
 Neural_Networks_I.ipynb – Introduction to neural networks, forward & backward propagation, and training basics.
+
+Still learing.....
+More notebooks soon!
